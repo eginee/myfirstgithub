@@ -1,0 +1,215 @@
+@font-face{
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
+}
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
+    font-family: "Monserrat";
+}
+@font-face{
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: "Merriweather";
+}
+
+
+
+#heading{
+    background-color: lightsteelblue;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-size: cover;
+    height: 920px;
+    
+}
+#cloud1{
+    float: left;
+    width: 200px;
+    height: 80px;
+
+    margin-left: 250px;
+    margin-top: 5px;
+    
+  }
+ 
+  #mountain{
+    height: 500px;
+    width: 700px;
+    margin-top: 40px;
+    clear:both;
+}
+ 
+#cloud2{
+     float: right;
+     width: 200px;
+     height: 80px;
+     margin-right: 250px;
+     margin-top: 20px;
+   }
+
+
+  
+h1{
+    font-size: 80px;
+    font-family: "Sacramento";
+    text-align: center;
+    margin-left: 0px;
+    margin-bottom: 50px;
+    color: blue;
+    font-weight: 700;
+}
+h2{
+    font-size: 40px;
+    padding-top: 0%;
+    color: darkcyan;
+    font-family: "Monserrat";
+}
+    
+
+#profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 120px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 600px;
+}
+h5{
+    text-align: center;
+    font-size: 20px ;
+    font-family: "Merriweather";
+    font-weight: 200;
+}     
+
+#skills{
+    text-align: left;
+    margin-left: 100px ;
+}
+
+#pic01{
+    float: left;
+    width: 180px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+#web{
+    font-size: 45px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    color:lightseagreen;
+    font-family: "Monserrat";
+
+}
+#pic02{
+    float: left;
+    width: 400px;
+    height: 300px;
+    
+}
+
+#des1{
+    margin-left: 400px;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+#pic03{
+
+    float: left;
+    width: 180px;
+    height: 180px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#graphic{
+    font-size: 45px;
+    color:lightseagreen;
+    font-family: "Monserrat";
+    margin-left: 500px;
+    margin-bottom: 10px;
+
+}
+#photo{
+    font-size: 45px;
+    color:lightseagreen;
+    font-family: "Monserrat";
+     margin-left: 500px;
+     margin-bottom: 20px;
+
+}
+#des2{
+    margin-left: 400px;
+    font-size: 25px;
+    line-height: 40px;
+    margin-bottom: 10px;
+   
+}
+#des3{
+
+    font-size: 25px;
+    line-height: 40px;
+    margin-top: 90px;
+    
+   
+}
+.git{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.connecting{
+    text-align: center;
+    font-family: Monserrat;
+}
+#get{
+text-align: center;
+font-size: 80px;
+color: limegreen;
+font-style: 500px;
+margin-top: 20px;
+}
+
+#let{
+
+font-size: 40px;
+text-align: center;
+margin-top: 90px;
+
+}
+#aboutme{
+padding-top: 6%;
+color:black;
+line-height: 40px;
+font-size: 25px;
+}
+#aboutme2{
+    line-height: 40px;
+    font-size: 25px;
+    color: black;
+}
+#aboutme3{
+    line-height: 40px;
+    font-size: 25px;
+    color: black;
+}
+
+.contactme{
+    display: inline-block;
+    background-color: lightseagreen;
+    color: black;
+    margin-bottom: 40px;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 40px;
+}
+
+#heading03{
+        background-color: lightskyblue;
+        text-align: center;
+        padding-bottom: 25px;
+        font-size: 25px;
+}
+#copy{
+    text-align: center;
+}
